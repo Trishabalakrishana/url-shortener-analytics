@@ -170,6 +170,4 @@ A single-vCPU burstable instance will cap throughput regardless of application e
 - HTTPS/TLS termination behind nginx or an AWS ALB
 - Analytics endpoint is currently open and could be restricted to the link owner
 
-## License
 
-Add a license of your choice (for example MIT).
